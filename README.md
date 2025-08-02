@@ -38,7 +38,4 @@ A web application built to manage course enrollments with separate interfaces fo
 | Auth        | JWT (Planned)       |
 | Payments    | Razorpay (Planned)  |
 
----
 
-   git clone <your-repo-url>
-   cd <project-folder>
